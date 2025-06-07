@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a software engineer who specialized in AI and Full Stack Development.
 <!--
 **BitSpace55/BitSpace55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
